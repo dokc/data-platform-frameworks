@@ -24,3 +24,4 @@ To better address this, the proposal is to create a cloud-native data platform f
 * No vendor lock-in
 * Not for sale - as a product or service
 
+## Table of Contents
